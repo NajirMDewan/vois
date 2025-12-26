@@ -1,12 +1,12 @@
-def calculate_grade(average):
-    if average >= 90:
-        return "A"
-    elif 75 <= average <= 89:
-        return "B"
-    elif 60 <= average <= 74:
-        return "C"
-    else:
-        return "Fail"
+# def calculate_grade(average):
+#     if average >= 90:
+#         return "A"
+#     elif 75 <= average <= 89:
+#         return "B"
+#     elif 60 <= average <= 74:
+#         return "C"
+#     else:
+#         return "Fail"
 
 
 def main():
